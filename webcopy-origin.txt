@@ -1,0 +1,500 @@
+Uri: https://cdn.cookielaw.org/consent/a21f7aa3-d595-4a44-9017-38744d656fe9/OtAutoBlock.js
+File Name: C:\Downloaded Web Sites\www.microban.com\consent\a21f7aa3-d595-4a44-9017-38744d656fe9\OtAutoBlock.js
+Content Type: application/x-javascript
+
+Uri: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+File Name: C:\Downloaded Web Sites\www.microban.com\scripttemplates\otSDKStub.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/17.1.3/lazyload.min.js
+File Name: C:\Downloaded Web Sites\www.microban.com\ajax\libs\vanilla-lazyload\17.1.3\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://d328pb8icbgz49.cloudfront.net/microban/uploads/images/general/_partnerLogos/30743/GE_Logo-white-mtime20191203144644.webp
+File Name: C:\Downloaded Web Sites\www.microban.com\microban\uploads\images\general\_partnerLogos\30743\GE_Logo-white-mtime20191203144644.webp
+Content Type: image/webp
+
+Uri: https://d328pb8icbgz49.cloudfront.net/microban/uploads/images/hero/_bannerImage/792397/mbns21_Microban-Partner-GE-Appliances_Hero-16-9.webp
+File Name: C:\Downloaded Web Sites\www.microban.com\microban\uploads\images\hero\_bannerImage\792397\mbns21_Microban-Partner-GE-Appliances_Hero-16-9.webp
+Content Type: image/webp
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Black.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Black.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Black.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Black.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Black.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Black.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Black.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Black.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Black.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BlackItalic.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BlackItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BlackItalic.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BlackItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BlackItalic.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BlackItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BlackItalic.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BlackItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BlackItalic.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BlackItalic.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BlackItalic.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BlackItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Bold.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Bold.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Bold.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Bold.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BoldItalic.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BoldItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BoldItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-BoldItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Light.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Light.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Light.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Light.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Light.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Light.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Light.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-LightItalic.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-LightItalic.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-LightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-LightItalic.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-LightItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-LightItalic.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-LightItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-LightItalic.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-LightItalic.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-LightItalic.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-LightItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Medium.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Medium.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Medium.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Medium.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-MediumItalic.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-MediumItalic.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-MediumItalic.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-MediumItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-MediumItalic.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-MediumItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-MediumItalic.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-MediumItalic.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-MediumItalic.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-MediumItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Regular.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Regular.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Regular.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Regular.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-RegularItalic.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-RegularItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-RegularItalic.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-RegularItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-RegularItalic.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-RegularItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-RegularItalic.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-RegularItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-RegularItalic.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-RegularItalic.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-RegularItalic.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-RegularItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLight.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLight.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLight.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLight.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLight.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLight.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLight.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLight.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLight.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLightItalic.eot
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLightItalic.eot?
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLightItalic.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLightItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLightItalic.ttf
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLightItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLightItalic.woff
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLightItalic.woff
+Content Type: application/font-woff
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/fonts/Locator-UltraLightItalic.woff2
+File Name: C:\Downloaded Web Sites\www.microban.com\css\fonts\Locator-UltraLightItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/css/main.min.css
+File Name: C:\Downloaded Web Sites\www.microban.com\css\main.min.css
+Content Type: text/css
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/color-pattern.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\color-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/extranet-header.jpg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\extranet-header.jpg
+Content Type: image/jpeg
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/globe-solid.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\globe-solid.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/hero-1.jpg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/hero-2.jpg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\hero-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/hero-blue.jpg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\hero-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/hero-homepage.jpg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\hero-homepage.jpg
+Content Type: image/jpeg
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/hero-partners.jpg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\hero-partners.jpg
+Content Type: image/jpeg
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/icon-arrow-blue.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\icon-arrow-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/icon-arrow-light-blue.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\icon-arrow-light-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/icon-arrow-white.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\icon-arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/icon-search.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\icon-search.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/logo.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/miban-bookmark-caret.png
+File Name: C:\Downloaded Web Sites\www.microban.com\images\miban-bookmark-caret.png
+Content Type: image/png
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/mobile caret back.png
+File Name: C:\Downloaded Web Sites\www.microban.com\images\mobile caret back.png
+Content Type: image/png
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/mobile caret.png
+File Name: C:\Downloaded Web Sites\www.microban.com\images\mobile caret.png
+Content Type: image/png
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/mobile-caret-white-left.png
+File Name: C:\Downloaded Web Sites\www.microban.com\images\mobile-caret-white-left.png
+Content Type: image/png
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/mobile-caret-white-right.png
+File Name: C:\Downloaded Web Sites\www.microban.com\images\mobile-caret-white-right.png
+Content Type: image/png
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/video-poster-default.jpg
+File Name: C:\Downloaded Web Sites\www.microban.com\images\video-poster-default.jpg
+Content Type: image/jpeg
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/images/white-divider-gradient-svg.png
+File Name: C:\Downloaded Web Sites\www.microban.com\images\white-divider-gradient-svg.png
+Content Type: image/png
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/scripts/main.min.js
+File Name: C:\Downloaded Web Sites\www.microban.com\scripts\main.min.js
+Content Type: application/javascript
+
+Uri: https://dkj9kp53yxbmm.cloudfront.net/scripts/vendor/vendor.min.js
+File Name: C:\Downloaded Web Sites\www.microban.com\scripts\vendor\vendor.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/flickity@2.3.0/dist/flickity.min.css
+File Name: C:\Downloaded Web Sites\www.microban.com\flickity@2.3.0\dist\flickity.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/flickity@2.3.0/dist/flickity.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.microban.com\flickity@2.3.0\dist\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://ws.zoominfo.com/pixel/613facc496cf45001cc34a0b
+File Name: C:\Downloaded Web Sites\www.microban.com\pixel\613facc496cf45001cc34a0b
+Content Type: text/javascript
+
+Uri: https://www.microban.com/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon-precomposed.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon-precomposed.png
+Content Type: image/png
+
+Uri: https://www.microban.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.microban.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.microban.com/favicon-128.png
+File Name: C:\Downloaded Web Sites\www.microban.com\favicon-128.png
+Content Type: image/png
+
+Uri: https://www.microban.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.microban.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.microban.com/favicon-196x196.png
+File Name: C:\Downloaded Web Sites\www.microban.com\favicon-196x196.png
+Content Type: image/png
+
+Uri: https://www.microban.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.microban.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.microban.com/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\www.microban.com\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://www.microban.com/geappliances
+File Name: C:\Downloaded Web Sites\www.microban.com\geappliances.html
+Content Type: text/html
+
+Uri: https://www.microban.com/humans.txt
+File Name: C:\Downloaded Web Sites\www.microban.com\humans.txt
+Content Type: text/plain
+
+Uri: https://www.microban.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.microban.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.microban.com/scripts/main.min.js
+File Name: C:\Downloaded Web Sites\www.microban.com\scripts\main.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.microban.com/scripts/vendor/vendor.min.js
+File Name: C:\Downloaded Web Sites\www.microban.com\scripts\vendor\vendor.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.microban.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.microban.com\site.webmanifest
+Content Type: application/octet-stream
+

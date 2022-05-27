@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #11b4e4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-arrow-light-blue.svg" class="cls-1" d="M2849,7511a18,18,0,1,0,18,18A18.027,18.027,0,0,0,2849,7511Zm0,32.4a14.4,14.4,0,1,1,14.4-14.4A14.391,14.391,0,0,1,2849,7543.4Zm-4.88-20.32,5.92,5.92-5.92,5.92,2.56,2.56,8.48-8.48-8.48-8.48Z" transform="translate(-2831 -7511)"/>
+</svg>
